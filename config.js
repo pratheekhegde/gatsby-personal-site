@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://iam.pratheekheg.de',
   pathPrefix: '/',
-  title: 'Pratheek Hegdeb - Web Engineer',
+  title: 'Pratheek Hegde - Web Engineer',
   subtitle: 'Personal blog by Pratheek Hegde. Half/Full baked thoughts scribbled here',
   copyright: '© for the free and open web.',
   disqusShortname: '',
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Pratheek Hegde',
     photo: '/white.png',
-    bio: 'Senior Software Enginner @ Make My Trip.',
+    bio: 'Senior Software Enginner @ MakeMyTrip.',
     contacts: {
       email: '',
       facebook: 'pratheek.hegde',
