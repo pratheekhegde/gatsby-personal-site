@@ -3,9 +3,9 @@
 module.exports = {
   url: 'https://iam.pratheekheg.de',
   pathPrefix: '/',
-  title: 'Pratheek Hegde',
-  subtitle: 'Personal blog by Pratheek Hegde. Just scribbling my thoughts here',
-  copyright: '© For the free and open web.',
+  title: 'Pratheek Hegdeb - Web Engineer',
+  subtitle: 'Personal blog by Pratheek Hegde. Half/Full baked thoughts scribbled here',
+  copyright: '© for the free and open web.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-67738250-1',
