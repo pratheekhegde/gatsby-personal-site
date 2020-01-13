@@ -4,11 +4,11 @@ module.exports = {
   url: 'https://iam.pratheekheg.de',
   pathPrefix: '/',
   title: 'Pratheek Hegde',
-  subtitle: 'Javascript & Go Developer.',
-  copyright: '© All rights reserved.',
+  subtitle: 'Personal blog by Pratheek Hegde. Just scribbling my thoughts here',
+  copyright: '© For the free and open web.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-67738250-1',
   useKatex: false,
   menu: [
     {
@@ -18,26 +18,22 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Pratheek Hegde',
-    photo: '/photo.jpg',
-    bio: 'Full stack engineer from Bangalore.',
+    photo: '/white.png',
+    bio: 'Senior Software Enginner @ Make My Trip.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
+      facebook: 'pratheek.hegde',
+      telegram: 'pratheekhegde',
       twitter: '@pratheekhegde',
-      github: '#',
+      github: 'pratheekhegde',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'pratheekhegde',
+      instagram: 'pratheek_hegde',
       line: '',
       gitlab: '',
       weibo: '',
