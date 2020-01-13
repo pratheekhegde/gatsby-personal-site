@@ -1,10 +1,12 @@
 ---
 template: post
-title: A fresh start
+title: A Fresh Start of a New Decade
 slug: a-fresh-start
 draft: false
 date: 2020-01-13T09:53:48.857Z
-description: A new decade. Discontinuing medium and starting my personal blog.
+description: >-
+  Some commitments for the new Decade. Discontinuing medium and starting my
+  personal blog.
 category: Other
 tags:
   - Other
