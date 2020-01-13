@@ -2,7 +2,7 @@
 template: post
 title: A fresh start
 slug: a-fresh-start
-draft: true
+draft: false
 date: 2020-01-13T09:53:48.857Z
 description: A new decade. Discontinuing medium and starting my personal blog.
 category: Other
