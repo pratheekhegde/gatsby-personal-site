@@ -1,6 +1,6 @@
 ---
 template: post
-title: Lets start this Decade with some good.
+title: Starting this decade with some good.
 slug: a-fresh-start
 draft: false
 date: 2020-01-13T09:53:48.857Z
