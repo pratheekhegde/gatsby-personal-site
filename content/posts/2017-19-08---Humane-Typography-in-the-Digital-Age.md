@@ -2,7 +2,7 @@
 template: post
 title: 'WIP: Do I know me?'
 slug: do-i-know-me
-draft: false
+draft: true
 date: 2020-12-07T18:30:00.000Z
 description: A sneak peak inside my mind.
 category: 'Mind, Reflection'
