@@ -1,14 +1,11 @@
 ---
 template: post
 title: 'WIP: Do I know me?'
-slug: humane-typography-in-the-digital-age
+slug: do-i-know-me
 draft: false
-date: '2017-08-19T22:40:32.169Z'
-description: >-
-  An Essay on Typography by Eric Gill takes the reader back to the year 1930.
-  The year when a conflict between two worlds came to its term. The machines of
-  the industrial world finally took over the handicrafts.
-category: Typography
+date: 2020-12-07T18:30:00.000Z
+description: A sneak peak inside my mind.
+category: 'Mind, Reflection'
 tags:
   - Design
   - Typography
