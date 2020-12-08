@@ -1,6 +1,6 @@
 ---
 template: post
-title: Humane Typography in the Digital Age
+title: 'WIP: Second Post'
 slug: humane-typography-in-the-digital-age
 draft: true
 date: '2017-08-19T22:40:32.169Z'
@@ -14,68 +14,16 @@ tags:
   - Typography
   - Web Development
 ---
-* [The first transition](#the-first-transition)
-* [The digital age](#the-digital-age)
-* [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
-* [Chasing perfection](#chasing-perfection)
+Our mind is the most deceitful character we ever meet in our lives. As we grow up transitioning childhood this monster starts taking more control over our mind and thoughts. We listen to it like a loyal servant. We end up making shit load of mistakes as we progress in life. Some look smart but are disastrous while some are dumb but serendipitous. We reach a point where we are about to break ourself up for all the fuckups we have done. Then we start seeking help, some reach for therapy, some figure out by themselves. In my case by myself. I drowned myself reading and consuming blogs, articles, podcasts, books till I got overwhelmed with them to a point I had to stop consuming it else it would exactly do the reverse of what it was intended too that is to make me more depressed. After a point consumption of this content becomes similar to drug. 3 good years passed. 3 rounds of heart breaking, 3 rounds of job changes. I didn't stop making mistakes, but they reduced. The pattern of thoughts in my head started changing, I started catching my dirty mind misguiding me, tricking me. The current time where we are bombarded and exposed to shit load of attention seeking materials around be it social media, news, movies etc. This is like food for our mind. It enjoys it. Another thought pattern is the infatuation of material things around us. Mind says you want everything what we see, what everyone has. You see a movie and start liking the protagonist. He says you should become him. You listen to your favourite playlist, then he says you are good singer and become like him. This was how my mind would look if someone took a peak in the last decade. This was so unconscious that I never was aware of this happening, I believed everything what was sold to me by this monster. I had lost control to it, someone else was running the circus show inside my head. Now I come to talk about self Awareness. Or aka mindfulness or ton of other words meaning the same. It is this tiny superpower you acquire where you are completely aware of what's going on in your head when this monster takes over. The next time you see a Bentley or a Nike Jordan in-front you, your mind starts doing the regular action of planting an idea in your head. But this time you catch him and laugh at him. You mock him and say Fuck you, I know why you really want those. It's not because you really need them, it's because of the association you want to make by possessing these materialistic things. Evolution hasn't transformed us to something new, we are still are monkeys deep down inside. Craving every second attention from everything around us.
 
-An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
+As I started writing this essay, I was so excited to open Netlify and start writing without acknowledging the fact that it doesn't have a draft mode. I cant trust my browser as it can close any time and I could loose all the things that I wrote. The irrational me made me do this unconsciously. Now I open my notion and move all the things here and I resume writing.
 
-The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
+You have to stop listening to your mind when it says no don't do this, no you don't like this, screw this, I'm gonna skip it. Rather your mindset should be Fuck lets do it, lets figure it out. Do the thing right fucking now. Her's the intro for an article on productivity advice I read recently by Slava Akhmechet
 
-But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.
+> Do the work. That's all the productivity advice you need, and the only *useful* productivity advice you're ever going to get. You can direct your attention to a million optimizations— email, meetings, notes, calendar, time tracking, goals, todo lists, time estimates, prioritization frameworks, quantified self sensors, analytics, apps, documents, journaling. But don't. Ignore all this, and do the work. When you do the work, everything else optimizes itself.
 
-## The first transition
+Stop listening to your mind, is it tired? does it wanna rest? fuck you. Get the task done and move onto the next one. This should be the change in your mindset. And stop getting emotional with the task, detach any obsessions with a task, doesn't matter if you like it or not, tell yourself it doesn't matter. You are  gonna do it. All the dislikes, prejudices have to be discarded. All the baseless irrational thoughts that has shaped your beliefs from the reality are mostly flawed. Reality is true. You have a problem in-front of you or come one, think and you can solve it. Stop listening to the negative thoughts in your head. That thing is cunning and vicious, if you listen to you it it will never let you do what you aspire of. Identify it and tame yourself to ignore those thoughts. It's not gonna happen in a day or a week or a month. It's gonna take a good amount of time. For me it took 5-6 months where I started noticing my thought patterns have changed. Don't beat yourself for the mistakes or fuckups you make. Just do the right thing at the time with the available information you have. Accept the mistake if you have done before or if you have done one just now and move the fuck on. If you have a habit of reading, after a point stop the fuck and start applying what you have learnt. Learning something new and not applying is almost same as not having read anything. 
 
-A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.
+Every thoughts/assumptions/prejudice is all not necessarily true! Mind is a broken machine which uses emotions as lubricant to function. Accept the reality.
 
-The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.
-
-![42-line-bible.jpg](/media/42-line-bible.jpg)
-
-*The 42–Line Bible, printed by Gutenberg.*
-
-But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.
-
-## The digital age
-
-The first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.
-
-> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.
->
-> — Massimo Vignelli
-
-Typography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.
-
-## Loss of humanity through transitions
-
-Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.
-
-<figure>
-	<blockquote>
-		<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>
-		<footer>
-			<cite>— Josef Mueller-Brockmann</cite>
-		</footer>
-	</blockquote>
-</figure>
-
-Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.
-
-> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.
->
-> — Eric Gill
-
-We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.
-
-![type-through-time.jpg](/media/type-through-time.jpg)
-
-*Type through 5 centuries.*
-
-We lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.
-
-## Chasing perfection
-
-Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?
-
-*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*
+I wonder is it only me who is so abnormally worried and anxious of what am I going to do today, tomorrow, next week, next year. I did learn that everybody got shit going on inside their head. Everybody is figuring out life. Nobody has a fucking clue what they want to do or want to be. I also believe pop culture tries to sell us falsehood and unrealistic expectations that you gotta figure out your passion, your thing, your purpose. I don’t know how much of it is really true. What about people who have had success? Were they going through a similar phase or they did figure out things and their head was clear? Lately after reading (blog on productivity) It has become even more clear about being productivity and work. We are being sold bullshit from the mainstream media.
