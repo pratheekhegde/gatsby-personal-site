@@ -34,7 +34,7 @@ I wonder is it only me who is so abnormally worried and anxious of what am I goi
 
 Anyways this will be all. End of my rant. This essay's gonna be a nudge for me to continue writing after slacking off for a year. I didn't care much about the structure or formatting in this. Raw dump from my mind. Will improve as I write more.
 
-I'm 27 today and I feel happy. I didn't go low this time like the last few times. 
+I'm starting 27 today and I feel happy. I didn't go low this time like the last few times. 
 
 Cheers 🥂
 
