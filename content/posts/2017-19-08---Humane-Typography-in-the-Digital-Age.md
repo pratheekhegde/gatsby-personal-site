@@ -2,7 +2,7 @@
 template: post
 title: Do I know me?
 slug: do-i-know-me
-draft: true
+draft: false
 date: 2020-12-12T18:30:00.000Z
 description: >-
   Slacked off for a year not having written anything after challenging myself in
